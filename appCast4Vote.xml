@@ -6,7 +6,7 @@
             <title>Version 0.16.1</title>
             <description>desc</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.a4thinks.pesquisa_app" sparkle:version="0.16.1" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.a4thinks.pesquisa_app.pesquisa_app" sparkle:version="0.16.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
